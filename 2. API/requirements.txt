@@ -1,0 +1,13 @@
+tensorflow
+keras
+streamlit
+numpy
+nltk
+pandas
+requests
+matplotlib
+opencensus
+opencensus-ext-azure
+docker
+flask
+gunicorn
